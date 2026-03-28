@@ -28,4 +28,4 @@ Existing systems fail when networks collapse.
 This approach maintains communication and improves safety in extreme conditions.
 
 ## Resources
-- Pitch Deck (PDF)
+- Pitch Deck (MIT_GSW_ppt_MinjaeKim.pdf)
